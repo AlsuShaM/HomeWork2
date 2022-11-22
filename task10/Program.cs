@@ -5,3 +5,7 @@
 // 4 вывести не экран
 
 
+int n = 918;
+int b = (n / 10) % 10;
+
+Console.WriteLine(b);
