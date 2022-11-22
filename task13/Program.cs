@@ -3,12 +3,10 @@
 int n = 78;
 int a = (n / 100);
 int b = ((n / 10) % 10);
-int c = -1;
+int c = (n % 10);
 
-Console.WriteLine(c);
-
-if (c = (n % 10))
+int(c = double)
 {
-    Console.WriteLine(c);
+    Console.WriteLine("третьей цифры нет");
 }
-Console.WriteLine("третьей цифры нет");
+else Console.WriteLine(c);
