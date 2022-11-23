@@ -7,10 +7,19 @@
 //5 сопоставить цифру от пользоателя к номеру дня недели
 //6 вывести ответ
 
-int NumberDays(int number)
+//1
+int NumberDays(string text)
 {
-  Console.Write(number);
-  int number = Console.ReadLine();
-  Console.Write(number);
+  Console.Write(text);
+  int value = int.Parse(Console.ReadLine());
+  return value;
 }
+
+//2
+int[] DaysWeekArray{1, 2, 3, 4, 5, 5, 7}
+{
+  int Length = array.Length;
+  int index = 0;
+}
+
 int countElements = NumberDays("Введите цифру обозначающую день недели: ");
