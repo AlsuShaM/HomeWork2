@@ -1,25 +1,24 @@
 ﻿// Напишите программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, является ли этот день выходным
 //1 ввести цифру от пользовотеля
-//2 определить массив (дни недели)
-//3 вывести индекс каждого значения в массиве
-//4 определить в данном массиве выходные и будние дни
-//4 присвоить к каждому индексу номер дня недели (1-7)
-//5 сопоставить цифру от пользоателя к номеру дня недели
-//6 вывести ответ
+//2 определить будние дни (1-5) и выходные (6,7)
+//3 проверить подходит ли значение пользователя  (1-7)
+//4 проверить значение пользователя
+//4 вывод сообщения
 
-//1
-int NumberDays(string text)
+//Console.WriteLine("Введите цифру");
+//string dayNumber = Console.ReadLine();
+//string dayNumber = Convert.ToString(Console.ReadLine());
+int dayNumber = 13;
+
+if(1 <= dayNumber & dayNumber <= 5)
 {
-  Console.Write(text);
-  int value = int.Parse(Console.ReadLine());
-  return value;
+  Console.WriteLine("Будний день");
 }
-
-//2
-int[] DaysWeekArray{1, 2, 3, 4, 5, 5, 7}
+if(6 <= dayNumber & dayNumber <= 7)
 {
-  int Length = array.Length;
-  int index = 0;
+  Console.WriteLine("Выходной день");
 }
-
-int countElements = NumberDays("Введите цифру обозначающую день недели: ");
+if(dayNumber > 7)
+{
+  Console.WriteLine("Введены некорректные данные");
+}
