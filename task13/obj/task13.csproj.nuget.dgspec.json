@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Zver\\Documents\\Алсу\\аналитик\\3.Язык прогр-ия С#\\HW\\Lesson2\\task13\\task13.csproj": {}
+    "C:\\Users\\Zver\\Documents\\Алсу\\аналитик\\3.Язык прогр-ия С#\\HomeWorks\\HomeWorks\\Lesson2\\task13\\task13.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Zver\\Documents\\Алсу\\аналитик\\3.Язык прогр-ия С#\\HW\\Lesson2\\task13\\task13.csproj": {
+    "C:\\Users\\Zver\\Documents\\Алсу\\аналитик\\3.Язык прогр-ия С#\\HomeWorks\\HomeWorks\\Lesson2\\task13\\task13.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Zver\\Documents\\Алсу\\аналитик\\3.Язык прогр-ия С#\\HW\\Lesson2\\task13\\task13.csproj",
+        "projectUniqueName": "C:\\Users\\Zver\\Documents\\Алсу\\аналитик\\3.Язык прогр-ия С#\\HomeWorks\\HomeWorks\\Lesson2\\task13\\task13.csproj",
         "projectName": "task13",
-        "projectPath": "C:\\Users\\Zver\\Documents\\Алсу\\аналитик\\3.Язык прогр-ия С#\\HW\\Lesson2\\task13\\task13.csproj",
+        "projectPath": "C:\\Users\\Zver\\Documents\\Алсу\\аналитик\\3.Язык прогр-ия С#\\HomeWorks\\HomeWorks\\Lesson2\\task13\\task13.csproj",
         "packagesPath": "C:\\Users\\Zver\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Zver\\Documents\\Алсу\\аналитик\\3.Язык прогр-ия С#\\HW\\Lesson2\\task13\\obj\\",
+        "outputPath": "C:\\Users\\Zver\\Documents\\Алсу\\аналитик\\3.Язык прогр-ия С#\\HomeWorks\\HomeWorks\\Lesson2\\task13\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Zver\\AppData\\Roaming\\NuGet\\NuGet.Config"
